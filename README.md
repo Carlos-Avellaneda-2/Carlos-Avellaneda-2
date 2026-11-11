@@ -106,10 +106,9 @@
 | [SymphoPK](https://github.com/Carlos-Avellaneda-2/SymphoPK) | Reproductor de música local para Android con reproducción en segundo plano y controles en la pantalla de bloqueo | Flutter, Dart, Riverpod, Drift |
 | [Building-a-RAG-Application-with-Gemini](https://github.com/Carlos-Avellaneda-2/Building-a-RAG-Application-with-Gemini) | Aplicación RAG sobre priorización de acceso a consulta especializada | LangChain, LangGraph, Gemini, Chroma |
 | [VideoChatService1](https://github.com/Carlos-Avellaneda-2/VideoChatService1) | Microservicio de videollamadas grupales y chat en tiempo real para una plataforma de psicología | Node.js, Express, Socket.IO, WebRTC, MongoDB, Azure |
-| [Lab7-ARSW](https://github.com/Carlos-Avellaneda-2/Lab7-ARSW) | Editor colaborativo de planos en tiempo real con CRUD y autenticación | Spring Boot, JWT, PostgreSQL, STOMP, React, Redux |
+| [Loki](https://github.com/Carlos-Avellaneda-2/Loki) | Editor de video no lineal para Windows inspirado en el flujo de trabajo de Premiere Pro. Incluye monitores de origen y programa, timeline multipista, efectos con keyframes, transiciones, títulos, mezclador de audio, proxies, autoguardado con recuperación y exportación a H.264 con aceleración por hardware.| C++ |
 | [UsersService](https://github.com/Carlos-Avellaneda-2/UsersService) | Servicio de usuarios con inicio de sesión de Google y JWT propio | Spring Boot 4, Java 21, OAuth 2.0 |
 | [Building-and-Deploying-a-Maintainable-Application-Server](https://github.com/Carlos-Avellaneda-2/Building-and-Deploying-a-Maintainable-Application-Server) | Servidor HTTP y framework web propio en Java puro, con rutas definidas con lambdas | Java, Sockets, Docker, AWS |
-| [Lab8-ARSW](https://github.com/Carlos-Avellaneda-2/Lab8-ARSW) | Infraestructura en Azure como código: red, máquinas virtuales y balanceador | Terraform, Azure, GitHub Actions |
 | [Exploring-Convolutional-Layers-Through-Data-and-Experiments](https://github.com/Carlos-Avellaneda-2/Exploring-Convolutional-Layers-Through-Data-and-Experiments) | Experimentos con redes convolucionales sobre Fashion-MNIST | PyTorch, Jupyter |
 | [Heart-Disease-Risk-Prediction](https://github.com/Carlos-Avellaneda-2/Heart-Disease-Risk-Prediction) | Regresión logística implementada desde cero para predecir enfermedad cardíaca | Python, NumPy, pandas |
 
